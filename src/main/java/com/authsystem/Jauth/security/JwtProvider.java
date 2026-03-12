@@ -1,4 +1,4 @@
-package com.authsystem.Jauth.security;
+package main.java.com.authsystem.Jauth.security;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

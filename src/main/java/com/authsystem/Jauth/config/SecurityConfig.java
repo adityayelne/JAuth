@@ -1,6 +1,6 @@
-package com.authsystem.Jauth.config;
+package main.java.com.authsystem.Jauth.config;
 
-import com.authsystem.Jauth.security.JwtAuthenticationFilter;
+import main.java.com.authsystem.Jauth.security.JwtAuthenticationFilter;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

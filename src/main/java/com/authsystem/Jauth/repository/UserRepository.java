@@ -1,6 +1,6 @@
-package com.authsystem.Jauth.repository;
+package main.java.com.authsystem.Jauth.repository;
 
-import com.authsystem.Jauth.entity.User;
+import main.java.com.authsystem.Jauth.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

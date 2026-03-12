@@ -1,4 +1,4 @@
-package com.authsystem.Jauth.entity;
+package main.java.com.authsystem.Jauth.entity;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

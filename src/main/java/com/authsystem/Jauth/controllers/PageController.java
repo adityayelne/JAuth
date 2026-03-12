@@ -1,10 +1,10 @@
-package com.authsystem.JAuth.controllers;
+package main.java.com.authsystem.Jauth.controllers;
 
-import com.authsystem.Jauth.dto.AuthResponse;
-import com.authsystem.Jauth.dto.LoginRequest;
-import com.authsystem.Jauth.dto.RegisterRequest;
-import com.authsystem.Jauth.entity.User;
-import com.authsystem.Jauth.service.AuthService;
+import main.java.com.authsystem.Jauth.dto.AuthResponse;
+import main.java.com.authsystem.Jauth.dto.LoginRequest;
+import main.java.com.authsystem.Jauth.dto.RegisterRequest;
+import main.java.com.authsystem.Jauth.entity.User;
+import main.java.com.authsystem.Jauth.service.AuthService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.annotation.AuthenticationPrincipal;
 import org.springframework.stereotype.Controller;

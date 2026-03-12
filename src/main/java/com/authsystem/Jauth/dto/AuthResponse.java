@@ -1,4 +1,4 @@
-package com.authsystem.Jauth.dto;
+package main.java.com.authsystem.Jauth.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

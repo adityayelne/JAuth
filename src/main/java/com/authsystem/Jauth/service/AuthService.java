@@ -1,11 +1,11 @@
-package com.authsystem.Jauth.service;
+package main.java.com.authsystem.Jauth.service;
 
-import com.authsystem.Jauth.dto.AuthResponse;
-import com.authsystem.Jauth.dto.LoginRequest;
-import com.authsystem.Jauth.dto.RegisterRequest;
-import com.authsystem.Jauth.entity.User;
-import com.authsystem.Jauth.repository.UserRepository;
-import com.authsystem.Jauth.security.JwtProvider;
+import main.java.com.authsystem.Jauth.dto.AuthResponse;
+import main.java.com.authsystem.Jauth.dto.LoginRequest;
+import main.java.com.authsystem.Jauth.dto.RegisterRequest;
+import main.java.com.authsystem.Jauth.entity.User;
+import main.java.com.authsystem.Jauth.repository.UserRepository;
+import main.java.com.authsystem.Jauth.security.JwtProvider;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.crypto.password.PasswordEncoder;
 import org.springframework.stereotype.Service;
